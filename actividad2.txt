@@ -22,5 +22,17 @@
     "title": "Shoes",
     "price": 100,
     "thumbnail": "https://cdn.shopify.com/s/files/1/1246/0173/products/ASSC_FA22_Image_195_1024x1024.jpg?v=1663048222"
+  },
+  {
+    "id": 5,
+    "title": "T-Shirt",
+    "price": 300,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/1246/0173/products/ASSC_FA22_Image_195_1024x1024.jpg?v=1663048222"
+  },
+  {
+    "id": 6,
+    "title": "Shoes",
+    "price": 100,
+    "thumbnail": "https://cdn.shopify.com/s/files/1/1246/0173/products/ASSC_FA22_Image_195_1024x1024.jpg?v=1663048222"
   }
 ]
