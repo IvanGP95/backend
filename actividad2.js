@@ -80,8 +80,8 @@ const product2 = {
 }
 
 const createProduct = async ()=>{
-    await productList.save(product1);
-    await productList.save(product2);
+    // await productList.save(product1);
+    // await productList.save(product2);
     const idResult = await productList.getByID(1);
     console.log(idResult)
     const products = await productList.getAll();
@@ -89,3 +89,4 @@ const createProduct = async ()=>{
 }
 
 createProduct();
+module.exports = productList;
